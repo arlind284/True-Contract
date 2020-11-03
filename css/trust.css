@@ -1,0 +1,110 @@
+.navbar-custom .navbar-nav .nav-link {
+    color: #000;
+}
+.content-header-image {
+    margin-top: -40px;
+    background-image: url('../images/slider.jpg');
+    background-size: cover;
+}
+.header-bx {
+    background-color: rgba(95, 80,37 , 0.7);
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.section-image h1, .cover-image h1 {
+    font-size: 42px;
+    color: #fff;
+    line-height: 1.1;
+}
+
+.section-image h1 {
+    text-shadow: 1px 2px 8px rgba(000,000,000,0.8);
+    font-size: 70px;
+    font-size: 4rem;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.section-image h2 {
+    font-size: 22px;
+    font-size: 1.325rem;
+    font-family: 'Karla', sans-serif;
+    color: #fff;
+    letter-spacing: 0;
+    line-height: 1.4;
+    margin-top: 10px;
+}
+
+.main-text{
+    background-color: #5f5025;
+    color: #fff;
+    padding: 30px;
+}
+.content-main{
+    background-color: #5f5025;
+    color: #fff;
+    padding: 60px 0;
+    background-image: url(../images/pattern4.png);
+    background-repeat: no-repeat;
+    background-position: right 70px;
+    background-size: 598px;
+}
+.secter{
+    background-image: url("../images/hand.jpg");
+    background-size: cover;
+    /*margin-top: 100px;*/
+}
+.secter-text{
+    color: #fff;
+    padding-top: 50px;
+    text-align: justify;
+    background-color:  rgba(95, 80,37 , 0.5);
+    margin: 50px 0;
+    padding: 30px;
+}
+.girlpic{
+    padding-left: 245px;
+}
+.type {
+    font-family: 'Karla', sans-serif;
+   /* font-size: 42px;*/
+    font-size: 2rem;
+    color: #828282;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+.type1{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.dot-line{
+    background-color: #f7f7f7;
+        padding: 30px 10px;
+}
+
+.custom-card {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.custom-card .btn-link {
+    display: block;
+    font-size: 22px;
+    color: #6b6b6b;
+    width: 100%;
+    text-align: left;
+}
+.trust-page {
+    background-image: url(../images/img4.png);
+}
+
+@media screen and (max-width: 768px) {
+    .trust-page {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+@media screen and (max-width: 992px) {
+}
